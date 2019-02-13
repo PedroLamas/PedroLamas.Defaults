@@ -1,7 +1,6 @@
 # Setup tasks:
 #
-#    Set-ExecutionPolicy RemoteSigned
-#
+#    start http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/PedroLamas/PedroLamas.Defaults/master/boxstarter.ps1
 
 # Windows settings
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowFileExtensions -DisableShowRecentFilesInQuickAccess -DisableShowFrequentFoldersInQuickAccess -DisableOpenFileExplorerToQuickAccess
