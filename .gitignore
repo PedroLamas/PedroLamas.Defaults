@@ -1,0 +1,15 @@
+Thumbs.db
+*.user
+*.vspscc
+*.suo
+*.log
+[Bb]in
+[Oo]bj
+*.cache
+*.Cache
+*.ncrunchsolution*
+_ReSharper*/
+.JustCode/
+.vs/
+packages/
+*.cache
